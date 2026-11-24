@@ -1,0 +1,3 @@
+Session switcher for firefox browser
+
+So this is day 1 I'm learning how to create something with code xd...
